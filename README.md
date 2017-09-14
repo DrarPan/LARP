@@ -1,2 +1,2 @@
 # LARP
-LAer haRP
+LAser haRP
